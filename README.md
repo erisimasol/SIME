@@ -1,2 +1,2 @@
 # SIME
-Thus is sample repo for simone and mex
+Thus is sample repo for simone and mebex
